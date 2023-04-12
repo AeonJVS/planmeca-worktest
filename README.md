@@ -7,5 +7,5 @@ The largest problem I encountered was manipulating the bytes in the functions, b
 There is much to improve in the code, since time restraints made me work hastily, so commenting and coherent code might be lacking.
 I appreciate all feedback and criticism in order to learn and grow as a developer.
 
-Path to the java file containing main.java: PlanmecaWorktestGradle\lib\src\main\java\main.java
-Path to resources with the three raw images: PlanmecaWorktestGradle\lib\src\main\resources
+### Path to the java file containing main.java: PlanmecaWorktestGradle\lib\src\main\java\main.java
+### Path to resources with the three raw images: PlanmecaWorktestGradle\lib\src\main\resources
