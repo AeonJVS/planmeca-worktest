@@ -9,6 +9,6 @@ The largest problem I encountered was manipulating the bytes in the functions, b
 There is much to improve in the code, since time restraints made me work hastily, so commenting and coherent code might be lacking.
 I appreciate all feedback and criticism in order to learn and grow as a developer.
 
-### Path to the java file containing main.java: PlanmecaWorktestGradle\lib\src\main\java\main.java
-### Path to resources with the three raw images: PlanmecaWorktestGradle\lib\src\main\resources
+### Path to the java file containing main.java: \lib\src\main\java\main.java
+### Path to resources with the three raw images: \lib\src\main\resources
 ![planmeca-imputed-denoise](https://user-images.githubusercontent.com/64533217/231560532-4918b126-f5ca-440d-a772-0654545cab6e.png)
