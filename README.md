@@ -9,3 +9,4 @@ I appreciate all feedback and criticism in order to learn and grow as a develope
 
 ### Path to the java file containing main.java: PlanmecaWorktestGradle\lib\src\main\java\main.java
 ### Path to resources with the three raw images: PlanmecaWorktestGradle\lib\src\main\resources
+![planmeca-imputed-denoise](https://user-images.githubusercontent.com/64533217/231560532-4918b126-f5ca-440d-a772-0654545cab6e.png)
