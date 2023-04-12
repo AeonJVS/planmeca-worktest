@@ -2,7 +2,7 @@
 ## Juuso Ihatsu
 
 The program I wrote creates a new raw image in the “lib” -folder, “imputedDenoise.raw” with the specified errors fixed.
-My time ran short while working, so I had to forget about creating a GUI, which I was hoping to do as well. I was also new to using Gradle, and have only worked with Maven, so I hope that the project is in some satisfactory state.
+My time ran short while working, so I had to forget about creating a GUI, which I was hoping to do as well. I was also new to using Gradle, as I have only worked with Maven, so I hope that the project is at least in some satisfactory state.
 
 The largest problem I encountered was manipulating the bytes in the functions, but in the end, I managed to get an image that had no noticeable pixels that were present in the originals. Other problems that I had were with Gradle, which for some reason confused me greatly. I used Eclipse working on the project and for some reason or another had difficulties creating a build with Gradle. I honestly ran out of time trying to solve these little issues, so I decided to instead upload what I had to GitHub and call it a day. I will study more in the future and try to get a better grasp on things.
 
